@@ -1,0 +1,30 @@
+.container{
+    color: aqua;
+    background-color: black;
+}
+
+#container-tag{
+    background-color: purple;
+    color: black;
+}
+
+.first-list{
+    color: gold;
+
+}#first-list-tag{
+    color: aqua;
+}
+
+.list{
+    color: red;
+}
+.second-list{
+    color: blue;
+}
+#second-list-tag{
+    color: gold;
+}
+.second-list{
+    color: azure;
+    border-radius: 1ex;
+}
